@@ -1,2 +1,2 @@
-# VulcanMath
+# Vulcan Mind Math
  

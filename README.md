@@ -1,5 +1,5 @@
 # Vulcan Mind Math
  
-Hosted on Google App Engine since 2012, as seen at https://vulcanmath.vulakh.us<br><br>
+As seen at https://vulcanmath.vulakh.us since 2012<br><br>
 
 <img src=https://raw.githubusercontent.com/999Vulcan/VulcanMath/main/Screenshot.png width=500>
